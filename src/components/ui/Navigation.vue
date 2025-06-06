@@ -60,7 +60,7 @@ function switchIsImmediateRun() {
     items="center"
     spcae="y-2"
   >
-    <img src="/logo.png" class="w-12">
+    <img src="/logo.webp" class="w-12">
     <span class="flex-1" />
 
     <Button
@@ -90,7 +90,7 @@ function switchIsImmediateRun() {
     >
       <div i-carbon-settings />
     </Button> -->
-    <a href="https://github.com/ileostar/online-playground" target="_blank">
+    <a href="https://github.com/eonova/online-playground" target="_blank">
       <Button
         icon
         text="base"
